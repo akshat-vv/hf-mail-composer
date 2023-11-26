@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hf-mail-composer/static/css/main.bfb638f3.css",
+    "main.js": "/hf-mail-composer/static/js/main.a057e690.js",
+    "static/js/787.7568fe60.chunk.js": "/hf-mail-composer/static/js/787.7568fe60.chunk.js",
+    "index.html": "/hf-mail-composer/index.html",
+    "main.bfb638f3.css.map": "/hf-mail-composer/static/css/main.bfb638f3.css.map",
+    "main.a057e690.js.map": "/hf-mail-composer/static/js/main.a057e690.js.map",
+    "787.7568fe60.chunk.js.map": "/hf-mail-composer/static/js/787.7568fe60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb638f3.css",
+    "static/js/main.a057e690.js"
+  ]
+}
